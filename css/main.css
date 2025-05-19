@@ -290,12 +290,12 @@ a[href^="tel"]::before {
   column-gap: 10px;
   align-items: center;
   justify-content: center;
-  background-color: #f1f1f1;
+  background-color: #dedede;
   text-align: center;
   color: #000;
   transition: all 0.2s ease-in;
 }
 
 .inner-page-backlink:hover {
-  background-color: #dedede;
+  background-color: #c5c5c5;
 }
