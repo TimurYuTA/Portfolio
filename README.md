@@ -7,6 +7,7 @@ My portfolio site on Frontend development, website creation, layout. The site co
 ## Included projects
 
 * Website for Trip to Dagestan.
+* Website TimurYuTA
 * Website Resume.
 * My first web page.
 * This website Portfolio.
@@ -15,9 +16,6 @@ My portfolio site on Frontend development, website creation, layout. The site co
 
 - HTML
 - CSS
-- JavaScript
-- html2pdf.js
-- Tilda
 
 ## Links
 
