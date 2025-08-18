@@ -7,7 +7,8 @@ My portfolio site on Frontend development, website creation, layout. The site co
 ## Included projects
 
 * Website for Trip to Dagestan.
-* Website TimurYuTA
+* Website TimurYuTA.
+* «TimurYuTA» on React.
 * Website Resume.
 * My first web page.
 * This website Portfolio.
@@ -19,4 +20,4 @@ My portfolio site on Frontend development, website creation, layout. The site co
 
 ## Links
 
-1. [Website Portfolio](https://timuryuta.github.io/Portfolio/).
+1. [Website Portfolio](https://timuryuta.github.io/Portfolio).
